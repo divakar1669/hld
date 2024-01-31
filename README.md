@@ -99,8 +99,8 @@ To manage old or stale URLs, we implement a process for archiving. We define cri
 In summary, the designed URL shortening service offers robust API endpoints for URL shortening and redirection. It utilizes Base 62 encoding for compact unique identifiers and incorporates scalability measures, redundancy, and microservices coordination with Apache ZooKeeper.
 
 👉 **Try Building Your Own!**
-Check out Catalyst's hands-on tutorial: [Tiny URL Generation App Tutorial](https://docs.catalyst.zoho.com/en/tutorials/catly/nodejs/introduction/)
-
+[Check out Catalyst's hands-on tutorial: [Tiny URL Generation App Tutorial](https://docs.catalyst.zoho.com/en/tutorials/catly/nodejs/introduction/)
+](https://github.com/divakar1669/hld/blob/9ae5abf52f56cfc697a6ca30404fcd4b61e56eef/README.md)
 🔗 **Links to Popular URL Shorteners:**
 - [Bitly](https://bitly.com/)
 - [Bl.ink](https://www.bl.ink/)
