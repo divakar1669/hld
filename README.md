@@ -52,18 +52,6 @@ Let's scale this up:
 
 ## High-Level Design Overview:
 
-### API Endpoints:
-- POST `api/create`: Create a short URL from a long one.
-- GET `{short_url}`: Redirect to the original long URL.
-
-### URL Shortening Technique:
-- Base 62 Encoding: Combining 62 characters (A-Z, a-z, 0-9) for unique identifiers.
-# URL Shortening Service README
-
-This project is a URL shortening service that uses Base 62 encoding to create unique identifiers for long URLs. It provides API endpoints for shortening long URLs and redirecting to the original ones. Here's a brief overview of the project's key components and design considerations:
-
-## API Endpoints
-
 ### POST api/create
 - Receives a long URL and returns a shortened URL.
 
